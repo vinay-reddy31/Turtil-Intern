@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_093",
+  "extracted_fields": {
+    "name": "Richard Williams",
+    "college": "JNTU Kakinada",
+    "roll_number": "19JNT4042",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2027"
+  }
+}

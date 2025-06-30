@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_094",
+  "extracted_fields": {
+    "name": "Michael Sheppard",
+    "college": "Anna University",
+    "roll_number": "19ANN5975",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2025"
+  }
+}

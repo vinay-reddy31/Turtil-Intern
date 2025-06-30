@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_042",
+  "extracted_fields": {
+    "name": "Kim Morales",
+    "college": "Anna University",
+    "roll_number": "21ANN6476",
+    "branch": "Computer Science",
+    "valid_upto": "2025"
+  }
+}

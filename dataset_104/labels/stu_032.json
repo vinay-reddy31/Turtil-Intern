@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_032",
+  "extracted_fields": {
+    "name": "Thomas Green",
+    "college": "Anna University",
+    "roll_number": "22ANN5295",
+    "branch": "Electronics and Communication",
+    "valid_upto": "2027"
+  }
+}

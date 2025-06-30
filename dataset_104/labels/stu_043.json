@@ -1,0 +1,10 @@
+ {
+    "user_id": "stu_043",
+    "extracted_fields": {
+      "name": "Lori Hernandez",
+      "college":"Osmania University",
+      "roll_number": "2206919",
+      "branch": "Computer Science",
+      "valid_upto": "2028"
+    }
+  }

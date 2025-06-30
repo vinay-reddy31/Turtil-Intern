@@ -1,0 +1,10 @@
+{
+    "user_id": "stu_040",
+    "extracted_fields": {
+      "name": "William Hartman",
+      "college": "IIT Hyderabad",
+      "roll_number": "22III9606",
+      "branch": "Computer Science",
+      "valid_upto": "2026"
+    }
+  }

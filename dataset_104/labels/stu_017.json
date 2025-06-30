@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_017",
+  "extracted_fields": {
+    "name": "Neha Iyer",
+    "college": "PQR UNIVERSITY",
+    "roll_number": "19UCH1023",
+    "branch": "Civil Engineering",
+    "valid_upto": "2025"
+  }
+}

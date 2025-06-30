@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_087",
+  "extracted_fields": {
+    "name": "Martin Walker",
+    "college": "IIT Bombay",
+    "roll_number": "22IIT2612",
+    "branch": "Electronics and communication Engineering",
+    "valid_upto": "2025"
+  }
+}

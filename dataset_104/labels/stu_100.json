@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_100",
+  "extracted_fields": {
+    "name": "Kimberly Carter",
+    "college": "Anna University",
+    "roll_number": "21ANN4681",
+    "branch": "Civil Engineering",
+    "valid_upto": "2026"
+  }
+}

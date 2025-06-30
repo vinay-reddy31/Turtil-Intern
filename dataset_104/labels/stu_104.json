@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_104",
+  "extracted_fields": {
+    "name": "Mohit Patel ",
+    "college": "ABCD INSTITUTE",
+    "roll_number": "22LBCS1016",
+    "branch": "Computer Science Engineering",
+    "valid_upto": "2025"
+  }
+}

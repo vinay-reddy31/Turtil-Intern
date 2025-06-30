@@ -1,0 +1,10 @@
+{
+     "user_id": "stu_026",
+  "extracted_fields": {
+    "name": "Tyler Jones",
+    "university": "HIT HYDERABAD",
+    "roll_number": "211115634",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2026"
+  }
+}

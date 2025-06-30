@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_008",
+  "extracted_fields": {
+    "name": "Rahul Verma",
+    "college": "RECT Trichy",
+    "roll_number": "21JCTF2197",
+    "branch": "Computer Science and Engineering",
+    "valid_upto": "2026"
+  }
+}

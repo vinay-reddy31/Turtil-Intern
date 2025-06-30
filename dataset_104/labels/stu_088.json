@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_088",
+  "extracted_fields": {
+    "name": "Larry Garcia",
+    "college": "Osmania University",
+    "roll_number": "22OSM5310",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2027"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_101",
+  "extracted_fields": {
+    "name": "Jessica Cantrell",
+    "college": "JNTU Kakinada",
+    "roll_number": "20JNT7352",
+    "branch": "computer Science Engineering",
+    "valid_upto": "2025"
+  }
+}

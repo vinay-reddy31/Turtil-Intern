@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_062",
+  "extracted_fields": {
+    "name": "Scott Jackson",
+    "college": "Osmania University",
+    "roll_number": "21OSM4469",
+    "branch": "Computer Science Engineering",
+    "valid_upto": "2028"
+  }
+}

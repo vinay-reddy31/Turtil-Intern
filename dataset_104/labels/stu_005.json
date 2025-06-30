@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_005",
+  "extracted_fields": {
+    "name": "Brent Jackson",
+    "college": "IIT Bombay",
+    "roll_number": "21IIT9764",
+    "branch": "Civil Engineering",
+    "valid_upto": "2028"
+  }
+}

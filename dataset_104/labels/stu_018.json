@@ -1,0 +1,10 @@
+{
+    "user_id": "stu_018",
+    "extracted_fields": {
+      "name": "Divya Menon",
+      "college": "ABC Institute",
+      "roll_number": "19BIT0994",
+      "branch": "Information Technology",
+      "valid_upto": "2025"
+    }
+  }

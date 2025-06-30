@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_001",
+  "extracted_fields": {
+    "name": "Nathan Henry",
+    "college": "JNTU Kakinada",
+    "roll_number": "22JNT5377",
+    "branch": "Computer Science",
+    "valid_upto": "2028"
+  }
+}

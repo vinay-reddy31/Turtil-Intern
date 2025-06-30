@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_092",
+  "extracted_fields": {
+    "name": "Todd Miller",
+    "college": "Osmania University",
+    "roll_number": "18OSM1464",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2027"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_028",
+  "extracted_fields": {
+    "name": "John Adams",
+    "university": "OSMANIA UNIVERSITY",
+    "roll_number": "200SM3104",
+    "branch": "Computer Science",
+    "valid_upto": "2027"
+  }
+}

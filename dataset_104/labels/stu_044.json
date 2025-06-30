@@ -1,0 +1,10 @@
+{
+    "user_id": "stu_044",
+    "extracted_fields": {
+      "name": "Mary Bean",
+      "college": "College: BITS Pilani",
+      "roll_number": "21BIT6288",
+      "branch": "Electronics and Communication",
+      "valid_upto": "2027"
+    }
+  }

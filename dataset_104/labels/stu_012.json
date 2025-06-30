@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_012",
+  "extracted_fields": {
+    "name": "Dana Huber",
+    "college": "Osmania University",
+    "roll_number": "18OSM8817",
+    "branch": "Computer Science",
+    "valid_upto": "2025"
+  }
+}

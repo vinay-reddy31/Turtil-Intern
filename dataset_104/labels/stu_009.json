@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_009",
+  "extracted_fields": {
+    "name": "Dr.Michelle Smith",
+    "college": "IIT Hyderabad",
+    "roll_number": "19IIIT5597",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2027"
+  }
+}

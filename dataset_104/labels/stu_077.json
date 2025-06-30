@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_077",
+  "extracted_fields": {
+    "name": "Tammy Barnes",
+    "college": "IIT Bombay",
+    "roll_number": "19IIT8891",
+    "branch": "Electronics and communication Engineering",
+    "valid_upto": "2027"
+  }
+}

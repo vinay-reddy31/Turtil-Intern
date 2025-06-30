@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_007",
+  "extracted_fields": {
+    "name": "Kelly Bird",
+    "college": "Anna University",
+    "roll_number": "22ANN8918",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2026"
+  }
+}

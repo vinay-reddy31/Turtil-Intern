@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_002",
+  "extracted_fields": {
+    "name": "Akhil Varma",
+    "college": "NIT Trichy",
+    "roll_number": "NITT21ECE1001",
+    "branch": "Electronics and Communication",
+    "valid_upto": "2026"
+  }
+}

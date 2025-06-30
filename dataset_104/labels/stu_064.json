@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_064",
+  "extracted_fields": {
+    "name": "Mario Johnson",
+    "college": "ANN UNIVERSITY",
+    "roll_number": "18ANN9976",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2026"
+  }
+}

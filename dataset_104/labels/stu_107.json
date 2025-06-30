@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_107",
+  "extracted_fields": {
+    "name": "James Harris ",
+    "college": "Durham University",
+    "roll_number": "23HIST0847",
+    "branch": "History",
+    "valid_upto": "2023"
+  }
+}

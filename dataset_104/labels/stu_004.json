@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_004",
+  "extracted_fields": {
+    "name": "Tyrone Mcintyre",
+    "college": "Anna University",
+    "roll_number": "19ANN3117",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2025"
+  }
+}

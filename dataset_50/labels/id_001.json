@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_001",
+  "extracted_fields": {
+    "name": "Anjali Sharma",
+    "college": "RGMCET Nandyal",
+    "roll_number": "21RGME1032",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2025"
+  }
+}

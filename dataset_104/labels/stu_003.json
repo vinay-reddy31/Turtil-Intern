@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_003",
+  "extracted_fields": {
+    "name": "Francisco Patel",
+    "college": "IIT Bombay",
+    "roll_number": "21IIT1518",
+    "branch": "Civil Engineering",
+    "valid_upto": "2028"
+  }
+}

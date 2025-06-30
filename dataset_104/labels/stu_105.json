@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_105",
+  "extracted_fields": {
+    "name": "Aman Dhawan",
+    "college": "XYZ INSTITUTE OF TECHNOLOGY",
+    "roll_number": "210ME039",
+    "branch": "Mechanical Engineering",
+    "valid_upto": "2024"
+  }
+}

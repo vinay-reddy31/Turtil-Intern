@@ -1,0 +1,11 @@
+{
+    "user_id": "stu_020",
+    "extracted_fields": {
+      "name": "Deepak Kumar",
+      "college": "UVW College",
+      "roll_number": "20ME1056",
+      "branch": "Information Engineering",
+      "valid_upto": "2025"
+    }
+  }
+

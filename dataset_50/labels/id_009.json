@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_009",
+  "extracted_fields": {
+    "name": "Sarah Moore",
+    "college": "Osmania University",
+    "roll_number": "19OSM5561",
+    "branch": "Computer Science",
+    "valid_upto": "2027"
+  }
+}

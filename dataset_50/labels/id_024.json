@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_024",
+  "extracted_fields": {
+    "name": "Barry Yu",
+    "college": "JNTU Kakinada",
+    "roll_number": "18JNT7673",
+    "branch": "Computer Science",
+    "valid_upto": "2028"
+  }
+}

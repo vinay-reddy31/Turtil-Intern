@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_023",
+  "extracted_fields": {
+    "name": "Maria Carroll",
+    "roll_number": "19OSM2326",
+    "branch": "Mechanical Engineering",
+    "institution": "Osmania University",
+    "valid_upto": "2028"
+  }
+}

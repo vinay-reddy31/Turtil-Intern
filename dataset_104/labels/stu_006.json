@@ -1,0 +1,10 @@
+{
+  "user_id": "stu_006",
+  "extracted_fields": {
+    "name": "Jaime Smith",
+    "college": "Osmania University",
+    "roll_number": "19OSM6770",
+    "branch": "Electrical Engineering",
+    "valid_upto": "2025"
+  }
+}
